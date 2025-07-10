@@ -2,7 +2,7 @@
 I am creating this repo to store my C++ development work while learning. 
 
 
-# Date Difference Calculator
+# days.cpp
 This C++ program calculates the total number of days between two given dates: from a start date to the current date. It handles leap years and calculates the days for any given date range.
 - Allows the user to input a current date and a start date.
 - Accounts for leap years when calculating days.
