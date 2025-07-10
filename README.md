@@ -15,3 +15,11 @@ This C++ program calculates and displays numbers along with their squares, cubes
 - Input a number up to 100.
 - Outputs numbers, their squares, cubes, and sums.
 - Displays the grand total of all sums.
+
+
+# revere.cpp
+This C++ program ingeniously constructs a string from individual characters entered by the user and subsequently displays the assembled string in reverse order. It leverages fundamental array manipulation and loop control techniques to achieve this behaviour elegantly and straightforwardly.
+- **Dynamic input length**: Empowers the user to define the desired length of the string at runtime.
+- **Interactive character entry**: Requests each character one by one, allowing precise control over the string composition.
+- **Reverse output**: Outputs the complete string in reverse order, demonstrating control over array indexing and decrementing loops.
+- **Simple and intuitive design**: Written clearly for easy understanding and educational purposes.
