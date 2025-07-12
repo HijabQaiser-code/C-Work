@@ -27,6 +27,6 @@ This C++ program ingeniously constructs a string from individual characters ente
 
 # Prime.cpp
 This C++ program classifies and displays numbers within a user-defined range as either prime or composite. The program allows the user to input a lower and upper limit, and it outputs all prime and composite numbers found in that range, along with their total counts.
--Enter custom lower and upper limits for the range.
--Outputs a list of all prime numbers and composite numbers separately.
--Displays the total count of prime and composite numbers.
+- Enter custom lower and upper limits for the range.
+- Outputs a list of all prime numbers and composite numbers separately.
+- Displays the total count of prime and composite numbers.
