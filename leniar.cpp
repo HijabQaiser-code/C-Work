@@ -14,7 +14,7 @@ int main()
     // Prompt the user to input a number for which we will calculate the multiples. The multiples will be stored in the array.
     cout << "Please enter the number you want to generate multiples for: " << endl;
     cin >> num;
-    for (long long i = 0; i <= 9; i++)
+    for (int i = 0; i <= 9; i++)
     {
         arr[i] = num * i;
     }
