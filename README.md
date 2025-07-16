@@ -38,3 +38,27 @@ The program allows the user to input a number, generates its first 10 multiples,
 - Stores the first 10 multiples of the given number in an array.
 - Allows the user to search for a specific multiple in the list using linear search.
 - Displays whether the searched multiple is found and shows its position in the array, or notifies if it is not found.
+
+
+# Binary.cpp
+This program allows the user to input a number, generates its first 10 multiples, and then enables the user to search for a specific value among these multiples using a binary search approach.
+- Input a number for which multiples will be generated.
+- Stores the first 10 multiples of the given number in an array.
+- Uses a binary search logic to efficiently search for a specific multiple in the sorted list.
+- Displays whether the searched multiple is found and shows its position in the array, or notifies if it is not found.
+
+
+# Bubblea.cpp
+This C++ program accepts five integers from the user, sorts them in ascending order using the bubble sort algorithm, and then displays the sorted list. The program repeatedly compares adjacent elements and swaps them if they are in the wrong order, continuing until the entire list is sorted.
+- Accepts five integers as input from the user.
+- Stores the integers in an array.
+- Uses the bubble sort algorithm to sort the array in ascending order.
+- Displays the sorted integers after sorting is complete.
+
+
+# Bubbled.cpp
+This C++ program accepts five integers from the user, sorts them in descending order using the bubble sort algorithm, and then displays the sorted list. The program repeatedly compares adjacent elements and swaps them if they are in the wrong order (for descending, if the left element is smaller), continuing until the entire list is sorted.
+- Accepts five integers as input from the user.
+- Stores the integers in an array.
+- Uses the bubble sort algorithm to sort the array in descending order.
+- Displays the sorted integers after sorting is complete.
