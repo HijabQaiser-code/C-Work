@@ -33,8 +33,8 @@ This C++ program classifies and displays numbers within a user-defined range as 
 
 
 # Leniar.cpp
-This C++ program generates and displays multiples of a user-defined number. The program allows the user to input a number, and it generates the first 10 multiples of that number. It also allows the user to search for a specific multiple in the list of generated multiples.
-Input a number for which multiples will be generated.
-- Stores the first 10 multiples of the given number.
-- Allows the user to search for a specific multiple in the list.
-- Displays whether the searched multiple is found and its position, or if it is not a multiple.
+The program allows the user to input a number, generates its first 10 multiples, and then enables the user to search for a specific value among these multiples using a linear search algorithm.
+- Input a number for which multiples will be generated.
+- Stores the first 10 multiples of the given number in an array.
+- Allows the user to search for a specific multiple in the list using linear search.
+- Displays whether the searched multiple is found and shows its position in the array, or notifies if it is not found.
