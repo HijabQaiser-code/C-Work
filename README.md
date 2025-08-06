@@ -62,3 +62,77 @@ This C++ program accepts five integers from the user, sorts them in descending o
 - Stores the integers in an array.
 - Uses the bubble sort algorithm to sort the array in descending order.
 - Displays the sorted integers after sorting is complete.
+
+
+# Functions 
+fun1.cpp
+ Display Message
+
+-fun2.cpp
+ Maximum Finder
+
+-fun3.cpp
+ Multiplication Table Generator
+
+-fun4.cpp
+ Predecessor Successor Calculator
+
+-fun5.cpp
+ Factorial Calculator
+
+-fun6.cpp
+ Number Property Analyser
+
+-fun7.cpp
+ Prime Checker
+
+-fun8.cpp
+ Square Metrics Calculator
+
+-fun9.cpp
+ Simple Calculator
+
+-fun10.cpp
+ Character Grid Printer
+
+-fun11.cpp
+ Swap Two Numbers by Reference
+
+-fun12.cpp
+ Student Grade Evaluator
+
+-fun13.cpp
+ Multiple Checker
+
+-fun14.cpp
+ Triangle Area Calculator
+
+-fun15.cpp
+ Sum of Cube and Square
+
+-fun16.cpp
+ Highest Common Divisor Finder
+
+-fun17.cpp
+ Series Summation (e) Approximation
+
+-fun18.cpp
+ Array Minimum Element Locator
+
+-fun19.cpp
+ Circle Area Computation
+
+-fun20.cpp
+ Double Value Calculator
+
+-fun21.cpp
+ Sequential Counter Program
+
+-fun22.cpp
+ Multiplication Table Generator
+
+-fun23.cpp
+ Multiplication Table Even Counter
+
+-fun24.cpp
+ Multiplication Table and Squared Values Display
