@@ -65,7 +65,7 @@ This C++ program accepts five integers from the user, sorts them in descending o
 
 
 # Functions 
-fun1.cpp
+-fun1.cpp
  Display Message
 
 -fun2.cpp
